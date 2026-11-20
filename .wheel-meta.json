@@ -1,0 +1,22 @@
+{
+  "wheel_id": 931,
+  "structure": "umbrella",
+  "slug": "noosafencing-117",
+  "project": "fencing-contractors-noosa-checklist-835abe3f68b43960059f893eeee",
+  "parent_t1_ref": "noosafencing-158",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa checklist",
+  "intended_url": "https://sitesau.github.io/noosafencing-117/",
+  "tier": "T2",
+  "writeback_nonce": "bb987e9664cb6afd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-noosa-common-mistakes-c21f5d7ec71bc4c42015a/",
+      "anchor": "Fencing Contractors Noosa Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
